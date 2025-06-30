@@ -1,5 +1,5 @@
 # 📦 Solving Inventory Inefficiencies Using SQL 
-### Summer Project '25 – Consulting & Analytics Club, IIT Guwahati
+### Summer Project '25 By Consulting & Analytics Club, IIT Guwahati
 
 > **Domain**: Retail Analytics | **Tools**: SQL, Power BI  
 > **Objective**: Optimize inventory operations for Urban Retail Co. using data-driven analysis.
