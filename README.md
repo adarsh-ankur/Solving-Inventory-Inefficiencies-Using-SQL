@@ -113,7 +113,7 @@ Urban Retail Co. is experiencing:
 
 **Shashank Kumar Yadav**  
 _Data Analyst | SQL & Power BI Enthusiast_  
-📬 [LinkedIn]([https://www.linkedin.com/in/shashank-yadav-sky/]) 
+📬 [LinkedIn]https://www.linkedin.com/in/shashank-yadav-sky/ 
 
 ---
 
