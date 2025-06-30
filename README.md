@@ -37,7 +37,6 @@ Urban Retail Co. is experiencing:
 |---------------------------------|--------------------------------------------------|
 | 📉 Inventory Turnover Rate      | Shows how efficiently inventory is sold         |
 | 🛒 Reorder Point                | Helps trigger timely procurement                |
-| 🏷️ Sell Through Rate (%)       | Identifies fast vs slow sellers                 |
 | 🧊 Dead Stock                   | Detects non-moving stock in stores              |
 | 💸 Stock to Sales Ratio         | Balances holding cost and sales velocity        |
 | 📦 Total Inventory Value        | Assesses inventory cost tied up                 |
