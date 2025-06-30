@@ -90,6 +90,8 @@ Urban Retail Co. is experiencing:
 ### 📌 Page 2: Operational View
 - Visuals: Dead Stock Matrix, Reorder Point Table, Units Sold vs Forecast
 
+### 📒 Power Bi Dashboard - https://lnkd.in/gdZNkfPM
+
 ---
 
 ## ✅ Deliverables
