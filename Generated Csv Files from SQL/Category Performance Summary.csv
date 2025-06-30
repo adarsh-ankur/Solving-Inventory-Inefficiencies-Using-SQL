@@ -1,0 +1,6 @@
+Category,unique_products,total_units_sold,total_revenue,current_inventory_units,avg_inventory_level,avg_selling_price,inventory_turnover_ratio,stockout_count
+Clothing,11,4230880,215261243.14,6205992,154.57,50.88,27371.90,2098
+Electronics,8,2577043,131131428.09,4006354,137.20,50.88,18782.58,1356
+Furniture,6,2035351,103982170.47,3103300,141.70,51.09,14363.48,1142
+Groceries,2,729550,37328568.88,1086559,148.84,51.17,4901.45,387
+Toys,3,1018493,51738873.29,1552597,141.79,50.8,7183.12,562
