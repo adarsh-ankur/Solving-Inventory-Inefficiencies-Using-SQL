@@ -1,4 +1,4 @@
-### ✅ Step 1: Create Staging Table
+###  Step 1: Create Staging Table
 
 ```sql
 CREATE TABLE InventoryForecasting (
