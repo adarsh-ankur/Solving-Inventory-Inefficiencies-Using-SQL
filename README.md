@@ -58,3 +58,68 @@ Urban Retail Co. is experiencing:
 
 ## 📁 Project Structure
 
+📦 Inventory-Optimization-SQL
+│
+├── 📂 data/
+│ └── inventory_forecasting.csv
+│
+├── 📂 sql/
+│ ├── create_tables.sql
+│ ├── insert_data.sql
+│ └── analysis_queries.sql
+│
+├── 📂 dashboard/
+│ ├── inventory_dashboard.pbix
+│ └── screenshots/
+│ ├── executive_view.png
+│ └── general_view.png
+│
+├── 📄 ERD.png
+├── 📄 Executive_Summary.pdf
+└── 📄 README.md
+
+
+---
+
+## 📊 Power BI Dashboard Overview
+
+### 📌 Page 1: Executive View
+- KPIs: Revenue per Unit, COGS, Forecast Accuracy
+- Visuals: Inventory by Region, Sell Through Rate, Sales Trends
+
+### 📌 Page 2: Operational View
+- Visuals: Dead Stock Matrix, Reorder Point Table, Units Sold vs Forecast
+
+---
+
+## ✅ Deliverables
+
+- 🧾 Structured SQL scripts: Table creation, insertion & analytical queries
+- 🗺️ Entity Relationship Diagram (ERD)
+- 📊 Power BI dashboard (2 pages: Executive + General view)
+- 📄 Executive Summary PDF with insights & recommendations
+
+---
+
+## 🚀 Business Impact
+
+- ✅ Reduced stockouts and overstocking
+- 📉 Improved forecasting accuracy and demand planning
+- 💡 Data-driven procurement and inventory decision-making
+- 📦 Better inventory visibility across stores and categories
+
+---
+
+## 👨‍💻 Author
+
+**Shashank Kumar Yadav**  
+_Data Analyst | SQL & Power BI Enthusiast_  
+📬 [LinkedIn]([https://www.linkedin.com/in/shashank-yadav-sky/]) 
+
+---
+
+## 📝 License
+
+This project is part of a data analytics learning challenge. Feel free to fork or use for learning purposes. Attribution appreciated.
+
+
