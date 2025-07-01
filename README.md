@@ -90,6 +90,9 @@ Urban Retail Co. is experiencing:
 ### 📌 Page 2: Operational View
 - Visuals: Dead Stock Matrix, Reorder Point Table, Units Sold vs Forecast
 
+### 📌 Page 2: Performance View
+-Purpose: Shows key inventory KPIs for product/category performance tracking.
+
 ### 📒 Power Bi Dashboard - https://lnkd.in/gdZNkfPM
 
 ---
@@ -98,7 +101,7 @@ Urban Retail Co. is experiencing:
 
 - 🧾 Structured SQL scripts: Table creation, insertion & analytical queries
 - 🗺️ Entity Relationship Diagram (ERD)
-- 📊 Power BI dashboard (2 pages: Executive + General view)
+- 📊 Power BI dashboard (3 pages: Executive + General view + Performance)
 - 📄 Executive Summary PDF with insights & recommendations
 
 ---
