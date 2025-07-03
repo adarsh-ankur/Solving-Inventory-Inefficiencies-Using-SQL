@@ -117,9 +117,9 @@ Urban Retail Co. is experiencing:
 
 ## 👨‍💻 Author
 
-**Shashank Kumar Yadav**  
+**Adarsh Ankur**  
 _Data Analyst | SQL & Power BI Enthusiast_  
-📬 [LinkedIn]https://www.linkedin.com/in/shashank-yadav-sky/ 
+📬 [LinkedIn][https://www.linkedin.com/in/adarsh-ankur/] 
 
 ---
 
